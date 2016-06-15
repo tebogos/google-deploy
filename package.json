@@ -40,6 +40,7 @@
     ]
   },
   "dependencies": {
+    "@google/cloud-debug": "^0.8.2",
     "async": "^1.5.2",
     "body-parser": "^1.15.0",
     "connect-memcached": "^0.2.0",

@@ -12,7 +12,7 @@
 // limitations under the License.
 
 'use strict';
-
+require('@google/cloud-debug');
 var path = require('path');
 var express = require('express');
 var session = require('express-session');
