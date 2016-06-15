@@ -1,0 +1,8 @@
+{
+  "GCLOUD_PROJECT": "gcloud-dada",
+  "DATA_BACKEND": "datastore",
+  "CLOUD_BUCKET":"datastore",
+  "OAUTH2_CLIENT_ID": "983761287253-9jk4vphnsogq1nbnjmriua5btgk4gcei.apps.googleusercontent.com",
+"OAUTH2_CLIENT_SECRET": "qJN6U1aZbmRz9YkY6mhDpy0z",
+"OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback"
+}
